@@ -16,9 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
 
     return view('welcome');
-//no hay nada
-//callate
-//sapooo
 
-//Hola soy Lopezzzzzzzzz
 });
